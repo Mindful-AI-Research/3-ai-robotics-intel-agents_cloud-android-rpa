@@ -12,14 +12,14 @@
 
 <br><br>
 
-<br><br>
+
 
 <!-- ========= START TEASER ========= -->
-###### <p align="center">  **The “what's for dinner?”** argument ends today... 🪽</p>
+###### <p align="center">   🦾 **Robots that reason ?** Done.</p>
 
-###### <p align="center"> ***HabitSync***: the AI that matches both your profiles</p>
+###### <p align="center">  **Robots that collaborate ?** Working on it.*</p>
 
-###### <p align="center">  Before the fridge does it for you !
+###### <p align="center">   **Humans that make  ?**  *That's the real AGI challenge...* 🫣
 
 ### <p align="center">⚡️</p>
 
@@ -114,14 +114,11 @@
 
 
 
-> 🚧
-Mudei TOTAL. Nova sacada, outro ângulo:
 
-Copia esse:
 
 
 <!-- ========= START TEASER ========= -->
 
- *Robots that collaborate? Working on it.*
- *Humans that make sense? That's the real AGI challenge.* 🫣
+
+
 
