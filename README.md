@@ -94,7 +94,7 @@
 >
 > Explore the complete collection of projects, notebooks, research materials, analyses and interactive applications available in the central repository:
 >
-> 🔗 **[Artificial Intelligence ✦ Robotics & Intelligent Agents ✦ Hub]([https://github.com/Mindful-AI-Research/1-ai-ml_neural-networks_hub](https://github.com/Mindful-AI-Research/1-ai-robotics-intelligent-agents-consulting-hub/edit/main/README.md))**
+> 🔗 **[Artificial Intelligence ✦ Robotics & Intelligent Agents ✦ Hub](https://github.com/Mindful-AI-Research/1-ai-robotics-intelligent-agents-consulting-hub)**
 >
 > #
 >
