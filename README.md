@@ -26,8 +26,29 @@ $$
 }
 $$
 
+$$
+\Large{
+\color{#777777}{\textbf{An academic}}
+\space
+\color{#858585}{\textbf{project to}}
+\space
+\color{#949494}{\textbf{configure,}}
+\space
+\color{#A3A3A3}{\textbf{demonstrate,}}
+\space
+\color{#B2B2B2}{\textbf{and evaluate}}
+\space
+\color{#C0C0C0}{\textbf{robotic process}}
+\space
+\color{#D0D0D0}{\textbf{automation on}}
+\space
+\color{#DDDDDD}{\textbf{cloud-hosted}}
+\space
+\color{#E8E8E8}{\textbf{Android devices.}}
+}
+$$
 
-#####  **An academic project to configure, demonstrate, and evaluate robotic process automation on cloud-hosted Android devices.**
+
 
 <br><br>
 
