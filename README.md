@@ -2,13 +2,32 @@
 \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-<--!
-
-
 <br><br>
 
-#  🦾🤖🪽 Project 3. [Robotic Process Automation]()(RPA) ⤳ [on Cloud-Hosted Android Devices]()
-###  **An academic project to configure, demonstrate, and evaluate robotic process automation on cloud-hosted Android devices.**
+# <p align="center">
+
+$$
+\Huge{
+\color{#8B0000}{\textbf{Robotic}}
+\space
+\color{#A10D0D}{\textbf{Process}}
+\space
+\color{#B91C1C}{\textbf{Automation}}
+\space
+\color{#D12B2B}{\textbf{(RPA)}}
+\space
+\color{#E04444}{\textbf{on}}
+\space
+\color{#E85B5B}{\textbf{Cloud-Hosted}}
+\space
+\color{#F07878}{\textbf{Android}}
+\space
+\color{#F59A9A}{\textbf{Devices}}
+}
+$$
+
+
+#####  **An academic project to configure, demonstrate, and evaluate robotic process automation on cloud-hosted Android devices.**
 
 <br><br>
 
