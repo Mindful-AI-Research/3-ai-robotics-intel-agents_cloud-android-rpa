@@ -19,7 +19,11 @@
 
 ###### <p align="center">  **Robots that collaborate ?** Working on it.*</p>
 
-###### <p align="center">   **Humans that make  ?**  *That's the real AGI challenge...* 🫣
+###### <p align="center">   **Humans that make  ?**  *That's the real AGI challenge...* 
+
+
+
+
 
 ### <p align="center">⚡️</p>
 
@@ -45,9 +49,14 @@
 <!-- ========= END SPONSOR BADGE ========= -->
 
 <!-- =========  START PUC HEADER GIF ========= -->
+
+https://github.com/user-attachments/assets/a1285801-4bc6-49f5-8814-2f7de04d148e
+
+<!--
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
+ -->
 
 <br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
