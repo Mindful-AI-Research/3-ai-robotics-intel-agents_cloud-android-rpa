@@ -4,7 +4,7 @@
 
 <br><br>
 
-# <p align="center">
+ <p align="center">
 
 $$
 \Huge{
@@ -27,7 +27,7 @@ $$
 $$
 
 $$
-\Large{
+\large{
 \color{#777777}{\textbf{An academic}}
 \space
 \color{#858585}{\textbf{project to}}
@@ -50,7 +50,7 @@ $$
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -79,13 +79,12 @@ $$
 <p align="center">
   <a href="https://github.com/sponsors/Mindful-AI-Research">
     <img
-      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
+      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=5C0011"
       alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆"
       height="36"
     >
-</p>
 
-<br><br>    
+<br><br>
 <!-- ========= END SPONSOR BADGE ========= -->
 
 <!-- =========  START PUC HEADER GIF ========= -->
