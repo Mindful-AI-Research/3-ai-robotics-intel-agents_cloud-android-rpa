@@ -61,7 +61,7 @@ $$
 
 ###### <p align="center">   **Humans that make  ?**  *That's the real AGI challenge...* 
 
-###### <p align="center">    ❤️‍🔥 ***May The Force Be With Us*** 
+###### <p align="center">    ❤️‍🔥 ***May The Force Be With Us !*** 
 
 
 
