@@ -402,3 +402,23 @@ flowchart TD
 | **VF-04** | `farm_fisica_04_datacenter_industrial_racks.mp4` | Industrial datacenter aisle with slide racks | Parallel mass device operation | Massive CapEx overhead, extreme electrical consumption, high visibility to regulatory scrutiny. |
 
 <br><br>
+
+### Third-Party Technical RPA Tutorials
+
+<br>
+
+| ID | Module Name | Core Technical Focus | Official Source |
+|:---:|---|---|:---:|
+| **S1-V01** | Workflow Initialization | Graph workspace navigation and first node deployment | [Watch Tutorial](https://www.youtube.com/watch?v=vF1XkAt6BE0) |
+| **S1-V02** | Scheduler Configuration | Cron-like triggers, execution intervals, and loops | [Watch Tutorial](https://www.youtube.com/watch?v=l3asV-WxZNM) |
+| **S1-V03** | Visual Node Hierarchy | Node inspector, UI anchor detection, coordinate maps | [Watch Tutorial](https://www.youtube.com/watch?v=aVUagtL8no0) |
+| **S1-V04** | Variable Parameterization | Dynamic input fields, JSON data injection, environment vars | [Watch Tutorial](https://www.youtube.com/watch?v=TFvL4iv9mdA) |
+| **S1-V05** | UI Interaction Primitives | Tap, hold, swipe, text input, keyboard dispatch | [Watch Tutorial](https://www.youtube.com/watch?v=MsjL2UE8l_c) |
+| **S1-V06** | OCR & Vision Anchors | Image template matching and on-screen text recognition | [Watch Tutorial](https://www.youtube.com/watch?v=_ZqNGFrAOMk) |
+| **S1-V07** | Branching & Logic Gates | Conditional statements (IF/ELSE), timeout exceptions, retries | [Watch Tutorial](https://www.youtube.com/watch?v=vHF2MqFr3UI) |
+| **S1-V08** | Advanced HTTP & JS | Webhook integration and asynchronous script execution | [Watch Tutorial](https://www.youtube.com/watch?v=Y0U2V54Lr98) |
+| **S2-V02** | Cloud Phone Synchronizer | Master-slave real-time input replication | [Watch Tutorial](https://www.youtube.com/watch?v=dLAuG8IMgKE) |
+| **S2-V04** | Batch Asset Operations | Multi-device bulk file transfer and clipboard broadcasting | [Watch Tutorial](https://www.youtube.com/watch?v=7wQsy16vXC4) |
+
+
+<br><br>
