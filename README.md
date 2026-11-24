@@ -331,7 +331,7 @@ Where ${\color{#D12B2B} N}$ is the number of active virtual instances, ${\color{
 <br><br>
 
 
-## 5. System Architecture & Component Flow
+## 5. [System Architecture & Component Flow]()
 
 <br>
 
@@ -390,4 +390,15 @@ flowchart TD
 
 <br><br>
 
+### ***Physical Phone Farm Comparative Taxonomy***
 
+<br>
+
+| Code | Standardized File | Infrastructure Architecture | Operational Mechanism | Technical Limitations & Risks |
+|:---:|---|---|---|---|
+| **VF-01** | `farm_fisica_01_macae_policia.mp4` | Residential wall-mounted cluster (Macaé/RJ) | Continuous loop playback | High thermal fire hazard, chaotic wiring, total exposure to physical seizure (Brazilian Penal Code Art. 171). |
+| **VF-02** | `farm_fisica_02_rack_motherboards.mp4` | 1U server chassis with 20 phone motherboards | Synchronized batch mirroring | Fragile manual wiring, hot-glue soldering, total lack of physical displays for troubleshooting. |
+| **VF-03** | `farm_fisica_03_cnc_robotic_rig.mp4` | Cartesian CNC gantry with capacitive stylus | Sequential physical touch | Extreme mechanical latency, high wear on stepper motors, severe physical scaling bottleneck. |
+| **VF-04** | `farm_fisica_04_datacenter_industrial_racks.mp4` | Industrial datacenter aisle with slide racks | Parallel mass device operation | Massive CapEx overhead, extreme electrical consumption, high visibility to regulatory scrutiny. |
+
+<br><br>
