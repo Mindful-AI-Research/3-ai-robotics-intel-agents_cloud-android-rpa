@@ -215,9 +215,10 @@ flowchart LR
         S1["Operator input"] --> S2["Input replication across instances"]
     end
 
+    style RPA fill:transparent,stroke:none;
+    style SYNC fill:transparent,stroke:none;
     linkStyle default stroke:red;
 ```
-
 
 
 
