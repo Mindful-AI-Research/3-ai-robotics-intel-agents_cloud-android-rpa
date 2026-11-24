@@ -264,5 +264,59 @@ flowchart TD
 6. **Stage 6 · Multi-Device Verification:** Controlled deployment across secondary instances to assess concurrency overhead and synchronization divergence.
 
 
-<br><br>
+<br>
 
+
+<br>
+
+
+1. **Stage 1 · Synthetic Task Definition:** Specification of elementary operations (launch application, navigate hierarchy, parse text element, write mock log) using exclusively synthetic datasets.
+
+
+## 4. Mathematical Foundations of RPA & Cost Models
+
+> Technical status: the equations below are planning models, not measured reliability or billing results. Independence and billing assumptions must be checked before applying them.
+
+### Operational Reliability Model
+For a workflow consisting of \({\color{#D12B2B} k}\) sequential independent sub-tasks, overall execution reliability \({\color{#D12B2B} R_{\text{total}}}\) is modeled as:
+
+
+\[
+{\color{#D12B2B}
+R_{\text{total}} = \prod_{i=1}^{k} \left(1 - P_f(i)\right)
+}
+\]
+
+
+Where \({\color{#D12B2B} P_f(i)}\) represents the probability of failure at step \({\color{#D12B2B} i}\) due to network jitter, UI desynchronization, or unresolved CAPTCHA challenges. When conditional retry logic with \({\color{#D12B2B} m}\) attempts is implemented:
+
+
+\[
+{\color{#D12B2B}
+R_{\text{step}} = 1 - \left(P_f(i)\right)^m
+}
+\]
+
+
+### OpEx vs. CapEx Financial Model
+The economic viability of transitioning from physical hardware farms to cloud-hosted infrastructure is evaluated by comparing total cost functions over operational timeframe \({\color{#D12B2B} T}\) (hours):
+
+
+\[
+{\color{#D12B2B}
+C_{\text{physical}}(T) = \text{CapEx}_{\text{hardware}} + \sum_{t=1}^{T} \left(P_{\text{energy}}(t) + C_{\text{maintenance}}(t) + C_{\text{bandwidth}}(t)\right)
+}
+\]
+
+
+
+\[
+{\color{#D12B2B}
+C_{\text{cloud}}(T) = N \cdot \left(R_{\text{device\_base}} + \int_{0}^{T} r_{\text{minute}}(t)\,dt\right) + C_{\text{proxy\_egress}}
+}
+\]
+
+
+Where \({\color{#D12B2B} N}\) is the number of active virtual instances, \({\color{#D12B2B} r_{\text{minute}}}\) is the variable per-minute execution tariff, and \({\color{#D12B2B} R_{\text{device\_base}}}\) represents the fixed monthly profile reservation fee.
+
+---
