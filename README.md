@@ -310,33 +310,19 @@ The economic viability of transitioning from physical hardware farms to cloud-ho
 $$
 {\color{#D12B2B}
 \begin{aligned}
-C_{\text{physical}}(T)
-&= \text{CapEx}_{\text{hardware}} \\
-&\quad + \sum_{t=1}^{T}
-\left(
-P_{\text{energy}}(t)
-+ C_{\text{maintenance}}(t)
-+ C_{\text{bandwidth}}(t)
-\right)
-\end{aligned}
-}
-$$
-
-$$
-{\color{#D12B2B}
-\begin{aligned}
-C_{\text{cloud}}(T)
+C_{\mathrm{cloud}}(T)
 &= N \cdot \left(
-R_{\text{device\_base}}
-+ \int_{0}^{T} r_{\text{minute}}(t)\,dt
+R_{\mathrm{device,base}}
++ \int_{0}^{T} r_{\mathrm{minute}}(t)\,dt
 \right) \\
-&\quad + C_{\text{proxy\_egress}}
+&\quad + C_{\mathrm{proxy,egress}}
 \end{aligned}
 }
 $$
 
 <br>
 
-Where ${\color{#D12B2B} N}$ is the number of active virtual instances, ${\color{#D12B2B} r_{\text{minute}}}$ is the variable per-minute execution tariff, and ${\color{#D12B2B} R_{\text{device\_base}}}$ represents the fixed monthly profile reservation fee.
+Where ${\color{#D12B2B} N}$ is the number of active virtual instances, ${\color{#D12B2B} r_{\mathrm{minute}}}$ is the variable per-minute execution tariff, and ${\color{#D12B2B} R_{\mathrm{device,base}}}$ represents the fixed monthly profile reservation fee.
+
 
 <br><br>
