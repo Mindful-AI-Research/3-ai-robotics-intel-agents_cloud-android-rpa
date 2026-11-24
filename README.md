@@ -199,8 +199,6 @@ Robotic Process Automation (RPA) in mobile environments historically required ph
 
 This research establishes a rigorous methodology for planning, configuring, and benchmarking RPA workflows deployed directly on **Cloud-Hosted Android Virtual Devices (Cloud Phones)**. Treating platforms such as MoreLogin, PhoneGrid, and DuoPlus as third-party candidates subject to documentary, technical, and budgetary verification, the project decouples mobile automation from local hardware constraints.
 
-
-
 <br><br>
 
 
@@ -220,6 +218,16 @@ flowchart LR
     linkStyle default stroke:red;
 ```
 
+<br><br>
 
+## 2. Research Problem & Conceptual Framework
 
+When mobile automation migrates to virtualized cloud instances, three core engineering challenges arise:
 
+1. **Virtualization Fidelity & Anti-Detection:** Cloud phones execute inside ARM/x86 hypervisors or containerized Android runtimes. Mobile applications and web portals actively fingerprint system attributes (OpenGL renderers, sensor telemetry, battery state, baseband build tags) and network characteristics (datacenter IP ranges, ASN categorization).
+
+2. **Deterministic UI State Transitions:** Mobile screens are dynamic. Network latency and asynchronous UI rendering require robust synchronization barriers, visual anchors, and optical character recognition (OCR) rather than hardcoded coordinate clicks.
+
+3. **Operational Economics:** Physical hardware requires high initial Capital Expenditure (CapEx) with low marginal execution cost. Cloud phones invert this model into Operational Expenditure (OpEx), billing per device-hour or execution-minute. Scaling requires rigorous cost modeling prior to multi-instance expansion.
+
+<br><br>
