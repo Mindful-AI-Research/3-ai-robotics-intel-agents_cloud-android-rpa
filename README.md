@@ -176,16 +176,38 @@ https://github.com/user-attachments/assets/a1285801-4bc6-49f5-8814-2f7de04d148e
 <!-- ========= END MAIN REPO / Projects REFERENCES ========= -->
 
 
+## 📌 Table of Contents
+
+- [1. Executive Overview](#1-executive-overview)
+- [2. Research Problem & Conceptual Framework](#2-research-problem--conceptual-framework)
+- [3. Methodological Pipeline](#3-methodological-pipeline)
+- [4. Mathematical Foundations of RPA & Cost Models](#4-mathematical-foundations-of-rpa--cost-models)
+- [5. System Architecture & Component Flow](#5-system-architecture--component-flow)
+- [6. Audiovisual Evidence & Demonstrations](#6-audiovisual-evidence--demonstrations)
+  - [Cloud Android Technical Demonstrations](#cloud-android-technical-demonstrations)
+  - [Physical Phone Farm Comparative Taxonomy](#physical-phone-farm-comparative-taxonomy)
+  - [Third-Party Technical RPA Tutorials](#third-party-technical-rpa-tutorials)
+- [7. Cloud Phone Multi-Platform Benchmark Matrix](#7-cloud-phone-multi-platform-benchmark-matrix)
+- [8. Cybersecurity, Threat Intelligence & OSINT Attribution](#8-cybersecurity-threat-intelligence--osint-attribution)
+- [9. Legal Governance, Ethics & LGPD Compliance](#9-legal-governance-ethics--lgpd-compliance)
+- [10. Reproducibility & Environment Setup](#10-reproducibility--environment-setup)
+- [11. Evaluation Criteria & Future Milestones](#11-evaluation-criteria--future-milestones)
+- [12. References & Academic Citations](#12-references--academic-citations)
+
+<br><br>
+
+## 1. [Executive Overview]()
+
+Robotic Process Automation (RPA) in mobile environments historically required physical hardware setups: clusters of smartphones connected via USB hubs, controlled through ADB (Android Debug Bridge) or manual operator input. While effective for simple test automation, physical installations suffer from severe structural constraints, including thermal throttling, lithium battery degradation, high electrical overhead, and catastrophic maintenance complexity.
+
+This research establishes a rigorous methodology for planning, configuring, and benchmarking RPA workflows deployed directly on **Cloud-Hosted Android Virtual Devices (Cloud Phones)**. Treating platforms such as MoreLogin, PhoneGrid, and DuoPlus as third-party candidates subject to documentary, technical, and budgetary verification, the project decouples mobile automation from local hardware constraints.
+
+<br><br>
 
 
 
 
 
-
-
-
-
-<!-- ========= START TEASER ========= -->
 
 
 
