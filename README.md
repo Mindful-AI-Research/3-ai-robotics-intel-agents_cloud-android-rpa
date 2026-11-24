@@ -4,7 +4,7 @@
 
 <br><br>
 
- <p align="center">
+# <p align="center">
 
 $$
 \Huge{
@@ -23,6 +23,26 @@ $$
 \color{#F07878}{\textbf{Android}}
 \space
 \color{#F59A9A}{\textbf{Devices}}
+}
+$$
+
+$$
+\Large{
+\color{#777777}{\textbf{Strategic}}
+\space
+\color{#868686}{\textbf{and Financial}}
+\space
+\color{#969696}{\textbf{Analysis}}
+\space
+\color{#A5A5A5}{\textbf{of Virtual}}
+\space
+\color{#B4B4B4}{\textbf{Environment}}
+\space
+\color{#A87878}{\textbf{Isolation in}}
+\space
+\color{#B87474}{\textbf{Digital Marketing}}
+\space
+\color{#C87878}{\textbf{and Growth}}
 }
 $$
 
