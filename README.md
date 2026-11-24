@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/a1285801-4bc6-49f5-8814-2f7de04d148e
 >
 > A deep learning system for handwritten character recognition using PyTorch and Streamlit.
 
-<br><br><br><br>
+<br><br>
 <!-- ========= END MAIN REPO / Projects REFERENCES ========= -->
 
 
@@ -220,7 +220,7 @@ flowchart LR
 
 <br><br>
 
-## 2. Research Problem & Conceptual Framework
+## 2. [Research Problem & Conceptual Framework]()
 
 When mobile automation migrates to virtualized cloud instances, three core engineering challenges arise:
 
@@ -232,7 +232,7 @@ When mobile automation migrates to virtualized cloud instances, three core engin
 
 <br><br>
 
-## 3. Methodological Pipeline
+## 3. [Methodological Pipeline]()
 
 The proposed experimental framework consists of six sequential, auditable stages:
 
@@ -251,4 +251,18 @@ flowchart TD
 
 <br><br>
 
+1. **Stage 1 · Synthetic Task Definition:** Specification of elementary operations (launch application, navigate hierarchy, parse text element, write mock log) using exclusively synthetic datasets.
+
+2. **Stage 2 · Android Cloud Provisioning:** Preparation of a test environment using an Android version confirmed as available by the provider; inspection of outbound routing and baseline environment properties.
+
+3. **Stage 3 · Visual RPA Graph Construction:** Mapping logical execution blocks, setting coordinate offsets, defining OCR search regions, and configuring deterministic wait loops.
+
+4. **Stage 4 · Single-Instance Validation:** Execution of sequential iterations to measure end-to-end latency, state error frequency, and effective minute consumption.
+
+5. **Stage 5 · Conditional Expansion Assessment:** Formal evaluation against budgetary constraints, stability thresholds (\({\color{#D12B2B} P_s \ge 0.95}\)), and infrastructure resource availability.
+
+6. **Stage 6 · Multi-Device Verification:** Controlled deployment across secondary instances to assess concurrency overhead and synchronization divergence.
+
+
+<br><br>
 
