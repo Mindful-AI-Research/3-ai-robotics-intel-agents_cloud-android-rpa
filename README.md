@@ -231,3 +231,24 @@ When mobile automation migrates to virtualized cloud instances, three core engin
 3. **Operational Economics:** Physical hardware requires high initial Capital Expenditure (CapEx) with low marginal execution cost. Cloud phones invert this model into Operational Expenditure (OpEx), billing per device-hour or execution-minute. Scaling requires rigorous cost modeling prior to multi-instance expansion.
 
 <br><br>
+
+## 3. Methodological Pipeline
+
+The proposed experimental framework consists of six sequential, auditable stages:
+
+
+```mermaid
+flowchart TD
+    A["Stage 1: Task Definition"] --> B["Stage 2: Environment Provisioning"]
+    B --> C["Stage 3: RPA Workflow Construction"]
+    C --> D["Stage 4: Single-Instance Validation"]
+    D --> E{"Stage 5: Expansion Criteria Met?"}
+    E -->|Yes| F["Stage 6: Multi-Device Deployment"]
+    E -->|No| G["Audited Abort / Workflow Refinement"]
+
+    linkStyle default stroke:red;
+```
+
+<br><br>
+
+
