@@ -329,3 +329,33 @@ Where ${\color{#D12B2B} N}$ is the number of active virtual instances, ${\color{
 
 
 <br><br>
+
+
+## 5. System Architecture & Component Flow
+
+<br>
+
+> Conceptual architecture: ARM/KVM, WebSocket, Tesseract, Accessibility Service, and named node types in this diagram are illustrative, not verified specifications of the candidate providers.
+
+<br>
+
+```mermaid
+flowchart TD
+    A["Central Management Console"] --> B["Secure Tunnel / WebSocket API"]
+
+    subgraph CLOUD ["Cloud-hosted virtual runtime - conceptual"]
+        C["RPA Node Engine: OCR parser, coordinate injector, HTTP / webhook node"]
+        D["Android OS: input events, Accessibility Service, applications"]
+        E["Tunneled Egress Network"]
+        C --> D
+        D --> E
+    end
+
+    B --> C
+    E --> F["Authorized testbeds, mock APIs, target endpoints"]
+
+    style CLOUD fill:transparent,stroke:none;
+    linkStyle default stroke:red;
+```
+
+<br><br>
