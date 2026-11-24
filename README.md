@@ -68,10 +68,7 @@ $$
 }
 $$
 
-
-
 <br><br><br>
-
 
 
 <!-- ========= START TEASER ========= -->
@@ -202,11 +199,24 @@ Robotic Process Automation (RPA) in mobile environments historically required ph
 
 This research establishes a rigorous methodology for planning, configuring, and benchmarking RPA workflows deployed directly on **Cloud-Hosted Android Virtual Devices (Cloud Phones)**. Treating platforms such as MoreLogin, PhoneGrid, and DuoPlus as third-party candidates subject to documentary, technical, and budgetary verification, the project decouples mobile automation from local hardware constraints.
 
+
+
 <br><br>
 
 
+```mermaid
+flowchart LR
+    subgraph RPA ["Robotic Process Automation"]
+        R1["Configured actions and conditions"] --> R2["Conditional branching"]
+        R2 --> R3["Error handling and recovery"]
+    end
 
+    subgraph SYNC ["Input Synchronization"]
+        S1["Operator input"] --> S2["Input replication across instances"]
+    end
 
+    linkStyle default stroke:red;
+```
 
 
 
