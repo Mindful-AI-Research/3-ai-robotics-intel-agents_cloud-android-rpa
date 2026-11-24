@@ -359,3 +359,35 @@ flowchart TD
 ```
 
 <br><br>
+
+## 6. [Audiovisual Evidence & Demonstrations]()
+
+<br>
+
+> Media status: the file names below are catalog entries from the supplied README. Their presence here does not confirm that the media was provided, inspected, or executed by the authors.
+
+
+<br><br>
+
+### ***Cloud Android Technica***
+
+<br>
+
+| Demonstration | File Name | Environment / Platform | Core Objective & Demonstrated Actions |
+|:---:|---|:---:|---|
+| **Demo 01** | `Demo-01_ install-proxies_isolating-profiles.mp4` | MoreLogin Management Console | **Proxy Allocation & Profile Isolation:** Configuration of advanced browser/runtime profiles, digital fingerprint refresh, SOCKS5/datacenter/residential proxy binding, and connectivity validation. |
+| **Demo 02** | `Demo-02_adding p-proxies_genating-cloud-phones.mp4` | PhoneGrid Cloud Phone Engine | **Cloud Phone Spawning & Concurrency:** SOCKS5 proxy integration, US/Brazil timezone matching, network verification, simultaneous multi-device boot (Android 15A runtimes), and parallel container shutdown. |
+
+<br><br>
+
+```mermaid
+flowchart TD
+    A["Reserved for final multi-device RPA demonstration recording"]
+    A --> B["Second instance subject to technical and cost validation"]
+
+    linkStyle default stroke:red;
+```
+
+<br><br>
+
+
