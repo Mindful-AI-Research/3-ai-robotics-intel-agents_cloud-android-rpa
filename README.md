@@ -422,3 +422,24 @@ flowchart TD
 
 
 <br><br>
+
+# 7. [Cloud Phone Multi-Platform Benchmark Matrix]()
+
+
+<br><br>
+
+> Candidate-comparison worksheet, not an executed benchmark. Architecture, capabilities, synchronization behavior, prices, allowances, and availability require dated provider documentation before use.
+
+
+<br><br>[
+
+| Evaluation Dimension | MoreLogin Cloud Phone | PhoneGrid | DuoPlus Cloud Phone | iOS Farm (Handler / Open-Source) |
+|---|---|---|---|---|
+| **Underlying Architecture** | Managed Cloud Container | Remote Cloud Android VM | Anti-Detect Cloud Android | Physical iPhones + Mac Host |
+| **RPA Capabilities** | Visual Node Graph + Marketplace | Template Workflows + Custom API | Pre-built templates + Custom Flow | WebDriverAgent / Appium API |
+| **Input Synchronization** | Native Master-Slave tool | Dedicated Syncer tool | Multi-window Syncer tool | Browser-based live broadcast |
+| **Pricing Model** | Tiered Subscription + Usage | Free Tier (100m) + $0.006/min | Profile Base Fee + Runtime Packs | Self-Hosted (Free code, high hardware cost) |
+| **Academic Viability** | Primary baseline under evaluation | Recommended candidate alternative | Recommended candidate alternative | Comparative reference for self-hosting |
+
+
+<br><br>
