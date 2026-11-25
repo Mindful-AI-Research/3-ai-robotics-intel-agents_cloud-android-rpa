@@ -4,10 +4,29 @@
 
 <br><br>
 
+#### <p align="center">
+
+
 # <p align="center">
 
 $$
 \Huge{
+\color{#8B0000}{\textbf{The}}
+\space
+\color{#A10D0D}{\textbf{Hidden}}
+\space
+\color{#B91C1C}{\textbf{Game}}
+\space
+\color{#D12B2B}{\textbf{of}}
+\space
+\color{#E04444}{\textbf{Digital}}
+\space
+\color{#F07878}{\textbf{Marketing:}}
+}
+$$
+
+$$
+\LARGE{
 \color{#8B0000}{\textbf{Robotic}}
 \space
 \color{#A10D0D}{\textbf{Process}}
@@ -23,6 +42,26 @@ $$
 \color{#F07878}{\textbf{Android}}
 \space
 \color{#F59A9A}{\textbf{Devices}}
+}
+$$
+
+$$
+\Large{
+\color{#777777}{\textbf{An Analysis}}
+\space
+\color{#858585}{\textbf{of}}
+\space
+\color{#949494}{\textbf{Virtual}}
+\space
+\color{#A3A3A3}{\textbf{Environment}}
+\space
+\color{#B2B2B2}{\textbf{Isolation}}
+\space
+\color{#C0C0C0}{\textbf{and}}
+\space
+\color{#D0D0D0}{\textbf{Cloud}}
+\space
+\color{#DDDDDD}{\textbf{Economics}}
 }
 $$
 
@@ -46,27 +85,77 @@ $$
 }
 $$
 
+
+
+
+
+<!--
+
+# <p align="center">
+
 $$
-\large{
-\color{#777777}{\textbf{An academic}}
+\Huge{
+\color{#8B0000}{\textbf{O Jogo}}
 \space
-\color{#858585}{\textbf{project to}}
+\color{#A10D0D}{\textbf{Oculto}}
 \space
-\color{#949494}{\textbf{configure,}}
+\color{#B91C1C}{\textbf{do}}
 \space
-\color{#A3A3A3}{\textbf{demonstrate,}}
+\color{#D12B2B}{\textbf{Marketing}}
 \space
-\color{#B2B2B2}{\textbf{and evaluate}}
-\space
-\color{#C0C0C0}{\textbf{robotic process}}
-\space
-\color{#D0D0D0}{\textbf{automation on}}
-\space
-\color{#DDDDDD}{\textbf{cloud-hosted}}
-\space
-\color{#E8E8E8}{\textbf{Android devices.}}
+\color{#E04444}{\textbf{Digital:}}
 }
 $$
+
+$$
+\Huge{
+\color{#8B0000}{\textbf{Robotic}}
+\space
+\color{#A10D0D}{\textbf{Process}}
+\space
+\color{#B91C1C}{\textbf{Automation}}
+\space
+\color{#D12B2B}{\textbf{(RPA)}}
+\space
+\color{#E04444}{\textbf{on}}
+\space
+\color{#E85B5B}{\textbf{Cloud-Hosted}}
+\space
+\color{#F07878}{\textbf{Android}}
+\space
+\color{#F59A9A}{\textbf{Devices}}
+}
+$$
+
+#### <p align="center">
+
+$$
+\Large{
+\color{#777777}{\textbf{Análise}}
+\space
+\color{#858585}{\textbf{de}}
+\space
+\color{#949494}{\textbf{Isolamento}}
+\space
+\color{#A3A3A3}{\textbf{de}}
+\space
+\color{#B2B2B2}{\textbf{Ambientes}}
+\space
+\color{#C0C0C0}{\textbf{Virtuais}}
+\space
+\color{#D0D0D0}{\textbf{e}}
+\space
+\color{#DDDDDD}{\textbf{Economia}}
+\space
+\color{#E8E8E8}{\textbf{de Nuvem}}
+}
+$$
+
+# <p align="center">
+
+-->
+
+
 
 <br><br><br>
 
