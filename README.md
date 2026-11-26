@@ -197,8 +197,7 @@ $$
 <br><br>
 <!-- ========= END SPONSOR BADGE ========= -->
 
-<!-- =========  Sdemo: building androids on MoreLogin ========= -->
-
+<!-- ========= demo: building androids on MoreLogin  + Art========= -->
 https://github.com/user-attachments/assets/9cfdad82-08a5-4ae4-aa8c-ec0d23bfe3d4
 
 <!--
