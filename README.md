@@ -197,11 +197,15 @@ $$
 <br><br>
 <!-- ========= END SPONSOR BADGE ========= -->
 
-<!-- =========  START PUC HEADER GIF ========= -->
+<!-- =========  Sdemo: building androids on MoreLogin ========= -->
 
-https://github.com/user-attachments/assets/a1285801-4bc6-49f5-8814-2f7de04d148e
+https://github.com/user-attachments/assets/9cfdad82-08a5-4ae4-aa8c-ec0d23bfe3d4
 
 <!--
+======= Art 01 =======
+https://github.com/user-attachments/assets/a1285801-4bc6-49f5-8814-2f7de04d148e
+
+=======PUC BANNER =======
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
