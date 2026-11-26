@@ -217,7 +217,7 @@ https://github.com/user-attachments/assets/a1285801-4bc6-49f5-8814-2f7de04d148e
 [**Subject:**]()  Artificial Intelligence, Robotics & Intelligent Agents ⤳ Research & Consulting   <br>
 [**Extensionist Projects: 3**]() Robotic Process Automation (RPA) on Cloud-Hosted Android Devicest <br>
 **Prof. Dr.:** ✨ [Sandra Muniz Bozolan](https://www.linkedin.com/in/sandrabozolan/) <br>
-**Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
+**Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  and [Lucas Moniz]()
 
 
 <br><br>
