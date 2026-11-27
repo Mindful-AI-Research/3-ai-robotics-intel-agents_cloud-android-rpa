@@ -4,10 +4,11 @@
 
 <br><br>
 
-#### <p align="center">
 
 
-# <p align="center">
+<br><br>
+
+<p align="center">
 
 $$
 \Huge{
@@ -521,4 +522,43 @@ flowchart TD
 | **Academic Viability** | Primary baseline under evaluation | Recommended candidate alternative | Recommended candidate alternative | Comparative reference for self-hosting |
 
 
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
+<br><br>
+<br><br>
+
+<br><br>
+<br><br>
+
+<br><br>
+<br><br>
+
+<br><br>
 <br><br>
