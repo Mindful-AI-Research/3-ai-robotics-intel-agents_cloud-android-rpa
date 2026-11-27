@@ -1,0 +1,15 @@
+# Core Data & Analytics
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API & Environment
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Image & Media Utilities
+Pillow>=10.0.0
+
+# Automation & Web Scraping (Optional/Utilities)
+beautifulsoup4>=4.12.0
