@@ -26,7 +26,7 @@ $$
 $$
 
 $$
-\LARGE{
+\Large{
 \color{#8B0000}{\textbf{Robotic}}
 \space
 \color{#A10D0D}{\textbf{Process}}
@@ -45,25 +45,6 @@ $$
 }
 $$
 
-$$
-\Large{
-\color{#777777}{\textbf{An Analysis}}
-\space
-\color{#858585}{\textbf{of}}
-\space
-\color{#949494}{\textbf{Virtual}}
-\space
-\color{#A3A3A3}{\textbf{Environment}}
-\space
-\color{#B2B2B2}{\textbf{Isolation}}
-\space
-\color{#C0C0C0}{\textbf{and}}
-\space
-\color{#D0D0D0}{\textbf{Cloud}}
-\space
-\color{#DDDDDD}{\textbf{Economics}}
-}
-$$
 
 $$
 \Large{
