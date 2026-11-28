@@ -180,9 +180,11 @@ $$
 <!-- ========= END SPONSOR BADGE ========= -->
 
 <!-- ========= demo: building androids on MoreLogin  + Art========= -->  
-https://github.com/user-attachments/assets/c4c0e768-263c-419b-87c7-8774e5aecb13
+https://github.com/user-attachments/assets/fa110161-ab84-4849-b012-d586eb9057a0
 
 <!--
+https://github.com/user-attachments/assets/c4c0e768-263c-419b-87c7-8774e5aecb13
+
 https://github.com/user-attachments/assets/43dd8864-8ec8-4805-9da5-8b74248815f1
 ======= Art 01 =======
 https://github.com/user-attachments/assets/9cfdad82-08a5-4ae4-aa8c-ec0d23bfe3d4
